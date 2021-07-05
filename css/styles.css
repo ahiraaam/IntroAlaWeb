@@ -80,8 +80,11 @@ nav ul li:hover{
     width: 500px;
     margin: auto;
 }
+#parrafo_letra_mas_grande{
+    font-size: 2rem;
+}
 
-/*******ESTILOS PARA SECCION QUIÉN SOY********/
+/*******ESTILOS PARA SECCION DE HOBBIES********/
 /*Los elementos con esta clase serán de otro color*/
 .elemento-lista-hobbie{
     color: yellowgreen;

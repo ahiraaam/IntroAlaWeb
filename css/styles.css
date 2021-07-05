@@ -63,6 +63,7 @@ nav ul li:hover{
 /*Estilos del div que quisimos centrar*/
 #div-centrado{
     width: 800px;
+    border: 5px solid black;
     margin: auto;
     padding: 30px;
     text-align: center;
